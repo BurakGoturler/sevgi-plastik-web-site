@@ -1,2 +1,3 @@
 # sevgi-plastik-web-site
- html, css, bootstrap
+ www.sevgiplastik.com
+
