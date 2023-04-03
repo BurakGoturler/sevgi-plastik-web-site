@@ -1,3 +1,3 @@
-# sevgi-plastik-web-site
+# Sevgi Plastik
  www.sevgiplastik.com
 
